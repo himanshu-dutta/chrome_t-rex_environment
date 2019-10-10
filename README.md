@@ -1,8 +1,6 @@
 # Chrome T-Rex Environment
 
-![](https://github.com/shivamshekhar/Chrome-T-Rex-Rush/raw/master/screenshot.png)
-
-![](https://github.com/shivamshekhar/Chrome-T-Rex-Rush/raw/master/screenshot.gif)
+![](https://github.com/moriarity101/chrome_t-rex_environment/blob/master/images/Screenshot.png)
 
 ### Description:
 Oen AI Gym Version for The Chrome T-Rex game.
