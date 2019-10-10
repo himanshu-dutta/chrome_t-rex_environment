@@ -26,7 +26,7 @@ To run this environment:
     env = gym.make("chrome_trex:Chrome_Trex-v0")
   This will import the environmnet.
 
-##### Controls:
+##### Description:
 * Press UP or SPACE to make T-Rex jump over the obstacles
 * Press DOWN key to crouch
 * Avoid getting hit by obstacles. 
