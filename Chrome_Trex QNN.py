@@ -8,7 +8,7 @@ env = gym.make("chrome_trex:Chrome_Trex-v0")
 
 
 env.setgoal = 50
-n_states = 4000
+n_states = (600*150)/4
 episodes = 1
 
 initial_lr = 1.0
