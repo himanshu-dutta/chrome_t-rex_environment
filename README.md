@@ -28,13 +28,13 @@ To run this environment:
 
 #### Description:
 * The functions included in this environment are:
-#####      step(action)
+#####           step(action)
 
-#####      render()
+#####           render()
 
-#####      reset()
+#####           reset()
 
-#####      setGoal() 
+#####           setGoal() 
 
 ### Developed by: 
 Himanshu Dutta
@@ -49,4 +49,3 @@ Email: meet.himanshu.dutta@gmail.com
 #### References:
 * http://www.pygame.org/docs
 * https://github.com/wayou/t-rex-runner
-* https://github.com/shivamshekhar/Chrome-T-Rex-Rush/
